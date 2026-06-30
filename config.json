@@ -1,0 +1,9 @@
+{
+    "APP_KEY": "",
+    "APP_SECRET": "",
+    "API_DOMAIN": "bot.yuanbao.tencent.com",
+    "WS_URL": "wss://bot-wss.yuanbao.tencent.com/wss/connection",
+    "GROUP_CODE_BLACKLIST": [],
+    "DEBUG": false,
+    "SALT": "xiaobai-xxp-2025"
+}
